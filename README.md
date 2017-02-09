@@ -1,5 +1,5 @@
 
-<img src="http://i.hizliresim.com/8PpWgr.jpg">
+<img align="center" src="http://i.hizliresim.com/8PpWgr.jpg">
 <h2>Çevirmemi istediğiniz <u>Addon</u>ları konu altında belirtebilirsiniz.</h2>
 <br>
 <br>
