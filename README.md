@@ -1,4 +1,1 @@
-# turkcebuddy
-
-Çevirmek istediğim
-<h1> SA </h1>
+<h1> TÜRKÇEBUDDY </h1>
